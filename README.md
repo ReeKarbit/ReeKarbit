@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
+- 🔭 I'm currently working on **ReeKarbit**
+- 🌱 I'm currently learning **Bot Otomatis**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **rehanrahmansaputra23@gmail.com**
+- ⚡ Fun fact: **Aku adalah aku**
 
 ## 🛠️ Tech Stack
 
@@ -43,28 +43,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReeKarbit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReeKarbit&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeKarbit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ReeKarbit&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReeKarbit/ReeKarbit/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReeKarbit/ReeKarbit/output/snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReeKarbit/ReeKarbit/output/snake.svg">
   </picture>
 </div>
 
@@ -82,28 +82,22 @@ const currentFocus = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/ReeKarbit/PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKarbit&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/ReeKarbit/PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKarbit&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rehanrahmansaputra23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/ReeKarbit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -119,9 +113,9 @@ Other        ██▓░░░░░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ReeKarbit&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <h3>⭐️ From [Your Name](https://github.com/YOUR_USERNAME)</h3>
+  <h3>⭐️ From Ree(https://github.com/ReeKarbit)</h3>
 </div>
