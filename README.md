@@ -1,48 +1,53 @@
-<!-- Header dengan animasi teks -->
+
+<!-- ========================= HEADER ========================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Rehan!;Cyber+Security+Enthusiast;Developer+%7C+Pentester;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Hello+World!+🌍;I'm+Rehan+%7C+Cyber+Security+Enthusiast;Developer+%26+Pentester;Code+.+Break+.+Secure" alt="Typing Animation" />
 </h1>
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/OVtYB1I.gif" alt="hacker banner" width="100%" />
+  <img src="https://i.imgur.com/wLH5aGQ.gif" width="80%" alt="cyberpunk banner"/>
 </p>
 
 ---
 
-## 👨‍💻 Tentang Saya  
-- 🚀 Fokus pada **Cyber Security** & **Development**  
-- 💻 Saat ini mendalami **Go & Node.js**  
-- 🔒 Tertarik pada **Automation, Bot, dan Security Tools**  
-- 🎯 Motto: *"Code. Break. Secure."*
+<!-- ========================= ABOUT ========================= -->
+## 🧑‍💻 About Me  
+✨ Cyber Security Enthusiast & Developer  
+🚀 Currently exploring **Go, Node.js, and Automation**  
+🔒 Passionate in **Pentesting, Bots, and Security Tools**  
+📡 Motto: *"Stay curious, stay secure."*
 
 ---
 
-## ⚡ Tech Stack
+<!-- ========================= SKILLS ========================= -->
+## ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,js,html,css,react,tailwind,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,js,ts,react,tailwind,docker,git,github,mongodb,python" />
 </p>
 
 ---
 
-## 📊 Statistik
+<!-- ========================= STATS ========================= -->
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehan123&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan123&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rehan123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
 </p>
 
 ---
 
-## 🔥 Streak
+<!-- ========================= STREAK ========================= -->
+## 🔥 Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan123&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rehan123&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 🕶️ Fun Section
+<!-- ========================= TERMINAL STYLE ========================= -->
+## 🕶️ Hacker Console
 ```bash
 > whoami
-> Rehan ~ Cyberpunk Dev 🚀
-> skills: ["Pentesting", "Bot Dev", "Automation"]
-> status: learning everyday
+> Rehan ~ Cyberpunk Dev ⚡
+> Skills: ["Pentesting", "Bot Dev", "Automation"]
+> Current Mission: Build. Learn. Secure.
