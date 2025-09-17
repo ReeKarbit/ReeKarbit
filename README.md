@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ree
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -59,11 +59,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
@@ -112,15 +107,14 @@ const currentFocus = {
   </a>
 </div>
 
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-</div>
+## 💻 Weekly Development Breakdown
+```text
+JavaScript   ████████████████████████▓   85.2%
+Python       ██████▓░░░░░░░░░░░░░░░░░░   23.1%
+HTML/CSS     ████▓░░░░░░░░░░░░░░░░░░░░   18.5%
+TypeScript   ███▓░░░░░░░░░░░░░░░░░░░░░   12.3%
+Other        ██▓░░░░░░░░░░░░░░░░░░░░░░    8.7%
+```
 
 ---
 
